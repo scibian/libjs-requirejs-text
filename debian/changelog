@@ -1,0 +1,11 @@
+libjs-requirejs-text (2.0.9-1+c9+1) calibre9; urgency=medium
+
+  * Backport to Calibre 9
+
+ -- Rémi Palancher <remi-externe.palancher@edf.fr>  Mon, 14 Sep 2015 11:13:33 +0200
+
+libjs-requirejs-text (2.0.9-1) unstable; urgency=low
+
+  * Initial release. (Closes: #771326)
+
+ -- Thomas Goirand <zigo@debian.org>  Fri, 28 Nov 2014 01:47:39 +0800
