@@ -1,3 +1,9 @@
+libjs-requirejs-text (2.0.9-1sci8u1) scibian8; urgency=medium
+
+  * Scibian8 rebuild.
+
+ -- Thomas Hamel <thomas-externe.hamel@edf.fr>  Wed, 13 Dec 2017 17:49:32 +0100
+
 libjs-requirejs-text (2.0.9-1+c9+1) calibre9; urgency=medium
 
   * Backport to Calibre 9
