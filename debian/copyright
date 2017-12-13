@@ -4,6 +4,7 @@ Source: git://github.com/requirejs/text.git
 
 Files: debian/*
 Copyright: (c) 2014, Thomas Goirand <zigo@debian.org>
+           (c) 2017, Scibian Project <legal@scibian.org>
 License: Dojo-BSD-or-MIT
 
 Files: *
